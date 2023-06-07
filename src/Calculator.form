@@ -38,7 +38,7 @@
         </constraints>
         <properties>
           <font name="Segoe UI" size="20" style="2"/>
-          <foreground color="-15922931"/>
+          <foreground color="-15662838"/>
           <text value="AC"/>
         </properties>
       </component>
@@ -52,6 +52,7 @@
         </constraints>
         <properties>
           <font name="Segoe UI" size="36" style="1"/>
+          <foreground color="-5205590"/>
           <text value="7"/>
         </properties>
       </component>
@@ -65,6 +66,7 @@
         </constraints>
         <properties>
           <font name="Segoe UI" size="36" style="1"/>
+          <foreground color="-5205590"/>
           <text value="4"/>
         </properties>
       </component>
@@ -78,6 +80,7 @@
         </constraints>
         <properties>
           <font name="Segoe UI" size="36" style="1"/>
+          <foreground color="-5205590"/>
           <text value="1"/>
         </properties>
       </component>
@@ -91,6 +94,7 @@
         </constraints>
         <properties>
           <font name="Segoe UI" size="22" style="1"/>
+          <foreground color="-5205590"/>
           <text value="00"/>
         </properties>
       </component>
@@ -104,6 +108,7 @@
         </constraints>
         <properties>
           <font name="Segoe UI" size="36" style="1"/>
+          <foreground color="-15712703"/>
           <text value="+"/>
         </properties>
       </component>
@@ -117,6 +122,7 @@
         </constraints>
         <properties>
           <font name="Segoe UI" size="36" style="1"/>
+          <foreground color="-15712703"/>
           <text value="-"/>
         </properties>
       </component>
@@ -130,7 +136,7 @@
         </constraints>
         <properties>
           <font name="Segoe UI" size="36" style="1"/>
-          <foreground color="-5653659"/>
+          <foreground color="-15712703"/>
           <text value="×"/>
         </properties>
       </component>
@@ -144,6 +150,7 @@
         </constraints>
         <properties>
           <font name="Segoe UI" size="36" style="1"/>
+          <foreground color="-15712703"/>
           <text value="÷"/>
         </properties>
       </component>
@@ -157,6 +164,7 @@
         </constraints>
         <properties>
           <font name="Segoe UI" size="36" style="1"/>
+          <foreground color="-15712703"/>
           <text value="="/>
         </properties>
       </component>
@@ -170,6 +178,7 @@
         </constraints>
         <properties>
           <font name="Segoe UI" size="36" style="1"/>
+          <foreground color="-5205590"/>
           <text value="8"/>
         </properties>
       </component>
@@ -183,6 +192,7 @@
         </constraints>
         <properties>
           <font name="Segoe UI" size="36" style="1"/>
+          <foreground color="-5205590"/>
           <text value="5"/>
         </properties>
       </component>
@@ -196,6 +206,7 @@
         </constraints>
         <properties>
           <font name="Segoe UI" size="36" style="1"/>
+          <foreground color="-5205590"/>
           <text value="2"/>
         </properties>
       </component>
@@ -209,6 +220,7 @@
         </constraints>
         <properties>
           <font name="Segoe UI" size="36" style="1"/>
+          <foreground color="-5205590"/>
           <text value="0"/>
         </properties>
       </component>
@@ -222,6 +234,7 @@
         </constraints>
         <properties>
           <font name="Segoe UI" size="22" style="1"/>
+          <foreground color="-15712703"/>
           <text value="←"/>
         </properties>
       </component>
@@ -235,6 +248,7 @@
         </constraints>
         <properties>
           <font name="Segoe UI" size="36" style="1"/>
+          <foreground color="-15712703"/>
           <text value="±"/>
         </properties>
       </component>
@@ -248,6 +262,7 @@
         </constraints>
         <properties>
           <font name="Segoe UI" size="36" style="1"/>
+          <foreground color="-5205590"/>
           <text value="9"/>
         </properties>
       </component>
@@ -261,6 +276,7 @@
         </constraints>
         <properties>
           <font name="Segoe UI" size="36" style="1"/>
+          <foreground color="-5205590"/>
           <text value="6"/>
         </properties>
       </component>
@@ -274,6 +290,7 @@
         </constraints>
         <properties>
           <font name="Segoe UI" size="36" style="1"/>
+          <foreground color="-5205590"/>
           <text value="3"/>
         </properties>
       </component>
@@ -287,6 +304,7 @@
         </constraints>
         <properties>
           <font name="Segoe UI" size="36" style="1"/>
+          <foreground color="-5213269"/>
           <text value="."/>
         </properties>
       </component>
