@@ -130,6 +130,7 @@
         </constraints>
         <properties>
           <font name="Segoe UI" size="36" style="1"/>
+          <foreground color="-5653659"/>
           <text value="×"/>
         </properties>
       </component>
